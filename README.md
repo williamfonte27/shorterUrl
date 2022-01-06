@@ -3,9 +3,9 @@
 <p align="center">>> PHP Challenge <<</p>
 
 # Installation
-- Clone the repository to its location: `git clone https://github.com/jjonathan/teste-dev-pleno.git`;
+- Clone the repository to its location: `git clone https://github.com/williamfonte27/shorterUrl.git`;
 - Run the command `composer install` and `npm install` in the root folder of the project, to install all Laravel dependencies;
-- Configure the `.env` file based on the variables from the file [.env.example](https://github.com/jjonathan/teste-dev-pleno/blob/master/.env.example);
+- Configure the `.env` file based on the variables from the file [.env.example](https://github.com/williamfonte27/shorterUrl/blob/master/.env.example);
 - Run the `php artisan key:generate` command to generate the application key;
 - Run the `php artisan migrate` command inside the project's root folder to run migrations;
 - Run the command `php artisan db:seed --class=ShortLinkSeeder` to create default data in the database
