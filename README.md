@@ -1,7 +1,3 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://www.bluecoding.com/themes/blue-coding/assets/assets2021/static/Blue-Coding-Logo-Color.png" width="400"></a></p>
-
-<p align="center">>> PHP Challenge <<</p>
-
 # Installation
 - Clone the repository to its location: `git clone https://github.com/williamfonte27/shorterUrl.git`;
 - Run the command `composer install` and `npm install` in the root folder of the project, to install all Laravel dependencies;
